@@ -1,0 +1,2 @@
+# Detecting Biomarkers for MDD
+A presentation on using signal processing tools to help better understand the brain activation of Major Depressive Disorder (MDD) patients.  Presented at the [Detroit Data Science Meetup on 6/15/2017](https://www.meetup.com/Detroit-Data-Science-Meetup/events/240711230/) by Dietta Chihade.
